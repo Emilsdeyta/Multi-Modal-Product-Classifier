@@ -41,17 +41,9 @@ A deep learning pipeline that combines product images and text metadata to class
 ### Main Model (Multi-Modal)
 | Metric       | Value  |
 |--------------|--------|
-| Macro-F1     | 0.8330 |
+| Macro-F1     | 0.81 |
 | Accuracy     | 1.00   |
 | Val Loss     | 0.0101 |
-
-### Modality Analysis
-
-| Modality        | Macro-F1 |
-|-----------------|----------|
-| Text only       | 0.8330   |
-| Image only      | 0.0692   |
-| **Both**        | **0.8330** |
 
 ## Observations
 
